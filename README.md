@@ -1,2 +1,2 @@
-# meme_generator
+# Meme generator
 this is a meme generator using react
