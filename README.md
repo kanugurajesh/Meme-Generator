@@ -6,3 +6,7 @@
 
 # Meme generator
 This application can be used to generate memes with also edit features
+
+## Demo
+![Vite + React - Google Chrome 2023-12-03 00-50-11](https://github.com/kanugurajesh/Meme-Generator/assets/120458029/b991e6ef-53df-41b1-bcf1-d9e2ba35b5c6)
+
